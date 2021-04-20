@@ -1,0 +1,6 @@
+img:hover {
+  cursor: pointer;
+}
+::ng-deep.mat-toolbar {
+  width: 100% !important;
+}
