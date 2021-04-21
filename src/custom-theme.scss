@@ -14,3 +14,9 @@ body {
   display: flex;
   background-color: $black;
 }
+
+@font-face {
+  font-family: "Original Surfer", cursive;
+  src: url(./assets/fonts/OriginalSurfer-Regular.ttf) format ("truetype");
+  font-weight: 400;
+}
